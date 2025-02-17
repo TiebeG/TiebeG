@@ -22,7 +22,6 @@ I’m always excited to learn, grow, and tackle new challenges!
 ## 🌱 I’m currently learning
 
 [![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/TiebeGooss)
-[![Duolingo Streak](https://img.shields.io/badge/Duolingo-Streak-577-blue)](https://www.duolingo.com/profile/TiebeGooss)
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TiebeG&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
