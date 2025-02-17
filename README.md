@@ -11,7 +11,7 @@
 ![profile view count](https://komarev.com/ghpvc/?username=TiebeG)
 
 I'm from Belgium, I love spending my free time behind my pc developing sites, apps and exploring new things. 
-Im student in Application Development and AI @ **ThomasMore** 
+Im student in Application Development and AI @ *ThomasMore*. 
 When I am not behind the screen, I can be found lifting weights in the gym 🏋️. 
 I’m always excited to learn, grow, and tackle new challenges!
 
